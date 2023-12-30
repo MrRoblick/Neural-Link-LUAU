@@ -1,4 +1,4 @@
-:Easy to use:
+# Easy to use
 
 
 Example of usage
